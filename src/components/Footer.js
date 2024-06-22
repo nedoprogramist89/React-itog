@@ -1,4 +1,4 @@
-// src/components/Footer.js
+
 import React from 'react';
 import '../Styles/Footer.css';
 import FeedbackForm from './FeedbackForm';
