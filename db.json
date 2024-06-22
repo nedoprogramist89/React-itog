@@ -1,0 +1,208 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Фигурка Микаса (Атака титанов)",
+      "image": "/images/Mikasa.png",
+      "price": 1500,
+      "category": "Атака титанов",
+      "inStock": true
+    },
+    {
+      "id": "2",
+      "name": "Фигурка Эрен (Атака титанов)",
+      "image": "/images/Eren.png",
+      "price": 1600,
+      "category": "Атака титанов",
+      "inStock": true
+    },
+    {
+      "id": "3",
+      "name": "Фигурка Леви (Атака титанов)",
+      "image": "/images/Levi.png",
+      "price": 1700,
+      "category": "Атака титанов",
+      "inStock": true
+    },
+    {
+      "id": "4",
+      "name": "Фигурка Гатс (Берсерк)",
+      "image": "/images/Guts.png",
+      "price": 2000,
+      "category": "Берсерк",
+      "inStock": true
+    },
+    {
+      "id": "5",
+      "name": "Фигурка Гриффит (Берсерк)",
+      "image": "/images/Griffit.png",
+      "price": 2100,
+      "category": "Берсерк",
+      "inStock": true
+    },
+    {
+      "id": "6",
+      "name": "Фигурка Деку (Моя геройская академия)",
+      "image": "/images/Deku.png",
+      "price": 1300,
+      "category": "Моя геройская академия",
+      "inStock": true
+    },
+    {
+      "id": "7",
+      "name": "Фигурка Бакуго (Моя геройская академия)",
+      "image": "/images/Bakugo.png",
+      "price": 1350,
+      "category": "Моя геройская академия",
+      "inStock": true
+    },
+    {
+      "id": "8",
+      "name": "Фигурка Саитама (Ванпанчмен)",
+      "image": "/images/Saitama.png",
+      "price": 1600,
+      "category": "Ванпанчмен",
+      "inStock": true
+    },
+    {
+      "id": "9",
+      "name": "Фигурка Генос (Ванпанчмен)",
+      "image": "/images/Genos.png",
+      "price": 1650,
+      "category": "Ванпанчмен",
+      "inStock": true
+    },
+    {
+      "id": "10",
+      "name": "Фигурка Каска (Берсерк)",
+      "image": "/images/Kaska.png",
+      "price": 1450,
+      "category": "Берсерк",
+      "inStock": true
+    },
+    {
+      "id": "11",
+      "name": "Фигурка Каска (Берсерк)",
+      "image": "/images/Kaska 2.png",
+      "price": 1650,
+      "category": "Берсерк",
+      "inStock": true
+    },
+    {
+      "id": "12",
+      "name": "Фигурка Гриффит (Берсерк)",
+      "image": "/images/Griffit 2.png",
+      "price": 1650,
+      "category": "Берсерк",
+      "inStock": true
+    },
+    {
+      "id": "13",
+      "name": "Фигурка Генос (Ванпанчмен)",
+      "image": "/images/Genos doll.png",
+      "price": 1650,
+      "category": "Ванпанчмен",
+      "inStock": true
+    },
+    {
+      "id": "14",
+      "name": "Фигурка Саитама (Ванпанчмен)",
+      "image": "/images/Saitama doll.png",
+      "price": 1650,
+      "category": "Ванпанчмен",
+      "inStock": true
+    },
+    {
+      "id": "15",
+      "name": "Фигурка Бакуго (Моя геройская академия)",
+      "image": "/images/Bakugo doll.png",
+      "price": 1650,
+      "category": "Моя геройская академия",
+      "inStock": true
+    },
+    {
+      "id": "16",
+      "name": "Фигурка Деку (Моя геройская академия)",
+      "image": "/images/Deku doll.png",
+      "price": 1650,
+      "category": "Моя геройская академия",
+      "inStock": true
+    },
+    {
+      "id": "17",
+      "name": "Фигурка Армин (Атака титанов)",
+      "image": "/images/Armin doll.png",
+      "price": 1650,
+      "category": "Атака титанов",
+      "inStock": true
+    },
+    {
+      "id": "18",
+      "name": "Фигурка Леви (Атака титанов)",
+      "image": "/images/Levi 2.png",
+      "price": 1650,
+      "category": "Атака титанов",
+      "inStock": true
+    },
+    {
+      "id": "19",
+      "name": "Фигурка Леви (Атака титанов)",
+      "image": "/images/Levi doll.png",
+      "price": 1650,
+      "category": "Атака титанов",
+      "inStock": true
+    },
+    {
+      "id": "20",
+      "name": "Фигурка Эрен (Атака титанов)",
+      "image": "/images/Eren doll.png",
+      "price": 1650,
+      "category": "Атака титанов",
+      "inStock": true
+    },
+    {
+      "id": "21",
+      "name": "Фигурка Микаса (Атака титанов)",
+      "image": "/images/Mikasa doll.png",
+      "price": 1650,
+      "category": "Атака титанов",
+      "inStock": true
+    },
+    {
+      "id": "22",
+      "name": "Фигурка Армин (Атака титанов)",
+      "image": "/images/Armin.png",
+      "price": 1400,
+      "category": "Атака титанов",
+      "inStock": true
+    },
+    {
+      "id": "23",
+      "name": "Фигурка Гатс (Берсерк)",
+      "image": "/images/Gats 2.png",
+      "price": 1650,
+      "category": "Берсерк",
+      "inStock": true
+    }
+  ],
+  "favorites": [
+    {
+      "id": "4",
+      "name": "Фигурка Гатс (Берсерк)",
+      "image": "/images/Guts.png",
+      "price": 2000,
+      "category": "Берсерк",
+      "inStock": true
+    }
+  ],
+  "cart": [
+    {
+      "id": "4",
+      "name": "Фигурка Гатс (Берсерк)",
+      "image": "/images/Guts.png",
+      "price": 2000,
+      "category": "Берсерк",
+      "inStock": true
+    }
+  ]
+}
